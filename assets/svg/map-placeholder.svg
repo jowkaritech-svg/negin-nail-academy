@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 700" role="img" aria-label="Map placeholder">
+  <rect width="1400" height="700" fill="#f5e6ea"/>
+  <g stroke="#d4b0b8" stroke-width="8" fill="none" opacity="0.7">
+    <path d="M40 120h1320"/>
+    <path d="M40 260h1320"/>
+    <path d="M40 400h1320"/>
+    <path d="M40 540h1320"/>
+    <path d="M180 40v620"/>
+    <path d="M420 40v620"/>
+    <path d="M700 40v620"/>
+    <path d="M970 40v620"/>
+    <path d="M1210 40v620"/>
+  </g>
+  <circle cx="720" cy="350" r="60" fill="#b87f8d"/>
+  <circle cx="720" cy="350" r="26" fill="#fff5f8"/>
+  <text x="700" y="640" text-anchor="middle" fill="#7a4f5b" font-size="44" font-family="Verdana">Map Placeholder</text>
+</svg>

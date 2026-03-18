@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Negin Nail Academy logo placeholder">
+  <defs>
+    <linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6d8de"/>
+      <stop offset="1" stop-color="#c08a96"/>
+    </linearGradient>
+  </defs>
+  <circle cx="120" cy="120" r="112" fill="url(#lg)"/>
+  <circle cx="120" cy="120" r="92" fill="#fff6f7" opacity="0.82"/>
+  <text x="120" y="112" text-anchor="middle" fill="#895964" font-size="44" font-family="Georgia">N</text>
+  <text x="120" y="146" text-anchor="middle" fill="#9b6a75" font-size="20" font-family="Verdana">Negin</text>
+  <text x="120" y="168" text-anchor="middle" fill="#9b6a75" font-size="14" font-family="Verdana">Nail Academy</text>
+</svg>
